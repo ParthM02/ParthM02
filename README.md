@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParthM02 or Parth Mehta
 - 👀 I’m interested in the world of programming and the future of technology.
-- 🌱 I’m currently learning Python, HTML, CSS, and JavaScript.
+- 🌱 I’m currently expanding my knowledge of Python.
 - 💞️ I’m looking to collaborate on projects that help the world and contributes to its advancement.
 - 📫 How to reach me: N/A
 
