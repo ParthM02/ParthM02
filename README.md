@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ParthM02 or Parth Mehta
+- 👋 Hi, I’m @ParthM02 or Parth.
 - 👀 I’m interested in the world of programming and the future of technology.
-- 🌱 I’m currently expanding my knowledge of Python.
-- 💞️ I’m looking to collaborate on projects that help the world and contributes to its advancement.
-- 👨‍💻 I'm also looking for any internships regarding computer programming available to High Schoolers!
+- 🌱 I’m currently studying at the University of Texas at Austin.
+- 👨‍💻 I'm also looking for software engineering internships.
 - 📫 How to reach me: My LinkedIn: https://www.linkedin.com/in/parthmehta0210
 
 <!---
