@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ParthM02 or Parth.
 - 👀 I’m interested in the world of programming and the future of technology.
 - 🌱 I’m currently studying at the University of Texas at Austin.
-- 👨‍💻 I'm also looking for software engineering internships.
 - 📫 How to reach me: My LinkedIn: https://www.linkedin.com/in/parthmehta0210
 
 <!---
